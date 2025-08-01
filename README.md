@@ -13,7 +13,7 @@ I'm currently working on Gitlocker, a new way to showcase closed-source reposito
 
 New projects coming soon with Gitlocker.
 
-## Tiny Projects
+## Experiments
 
 Smaller excursions through code.
 
