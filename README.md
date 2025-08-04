@@ -17,6 +17,7 @@ New projects coming soon with Gitlocker.
 
 Smaller excursions through code.
 
+- [protogen](https://github.com/npham-dev/protogen): Type generator for proto3 files (written in Go, exports to TypeScript)
 - [npc](https://github.com/natmfat/npc): Generate and export space invader themed logos
 - [shitgen](https://github.com/natmfat/shitgen): A shit PostgreSQL type generator
 - [banner](https://github.com/natmfat/banner): Banners that make your projects shine
