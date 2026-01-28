@@ -4,10 +4,10 @@ I'm currently working on Gitlocker, a new way to showcase closed-source reposito
 
 ## Projects
 
-- [blockpit](https://blockpit.natmf.at/): A React-only drag & drop code editor to learn generative art
+- [blocks](https://blocks.npham.dev/): A React-only drag & drop code editor to learn generative art
 - [v0](https://github.com/natmfat/v0): Generative UI; an (old) clone of Vercel's v0
-- [art](https://art.natmfat.com/): Generative art made with p5, Three.js, and TypeScript
-- [ui](https://ui.natmfat.com/): My personal design system
+- [art](https://art.npham.dev/): Generative art made with p5, Three.js, and TypeScript
+- [@koide-labs/ui](https://github.com/koide-labs/ui): My personal design system
 
 ... and many more!
 
