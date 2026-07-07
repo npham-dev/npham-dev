@@ -5,7 +5,7 @@ I'm currently working on Gitlocker, a new way to showcase closed-source reposito
 ## Projects
 
 - [blocks](https://blocks.npham.dev/): A React-only drag & drop code editor to learn generative art
-- [v0](https://github.com/natmfat/v0): Generative UI; an (old) clone of Vercel's v0
+- [v0](https://github.com/npham-dev/v0): Generative UI; an (old) clone of Vercel's v0
 - [art](https://art.npham.dev/): Generative art made with p5, Three.js, and TypeScript
 - [@koide-labs/ui](https://github.com/koide-labs/ui): My personal design system
 
@@ -18,13 +18,13 @@ New projects coming soon with Gitlocker.
 Smaller excursions through code.
 
 - [protogen](https://github.com/npham-dev/protogen): Type generator for proto3 files (written in Go, exports to TypeScript)
-- [npc](https://github.com/natmfat/npc): Generate and export space invader themed logos
-- [shitgen](https://github.com/natmfat/shitgen): A shit PostgreSQL type generator
-- [banner](https://github.com/natmfat/banner): Banners that make your projects shine
-- [polyprint](https://github.com/natmfat/polyprint): A dead simple schema builder
-- [remix-endpoint](https://github.com/natmfat/remix-endpoint): Create Remix actions and loaders with type validation
-- [git-translator](https://github.com/natmfat/git-translator): Master Git with AI
-- [code-symphony](https://github.com/natmfat/code-symphony): Literally play your code as music
-- [replit-web-os](https://github.com/natmfat/replit-web-os): Replit OS, as presented by Bookie
-- [three-3p](https://github.com/natmfat/three-3p): Three.js third person game template w/ Cannon.js for physics
-- [shader-playground](https://github.com/natmfat/shader-playground): A tiny wrapper around Three.js for fragment shaders
+- [npc](https://github.com/npham-dev/npc): Generate and export space invader themed logos
+- [shitgen](https://github.com/npham-dev/shitgen): A shit PostgreSQL type generator
+- [banner](https://github.com/npham-dev/banner): Banners that make your projects shine
+- [polyprint](https://github.com/npham-dev/polyprint): A dead simple schema builder
+- [remix-endpoint](https://github.com/npham-dev/remix-endpoint): Create Remix actions and loaders with type validation
+- [git-translator](https://github.com/npham-dev/git-translator): Master Git with AI
+- [code-symphony](https://github.com/npham-dev/code-symphony): Literally play your code as music
+- [replit-web-os](https://github.com/npham-dev/replit-web-os): Replit OS, as presented by Bookie
+- [three-3p](https://github.com/npham-dev/three-3p): Three.js third person game template w/ Cannon.js for physics
+- [shader-playground](https://github.com/npham-dev/shader-playground): A tiny wrapper around Three.js for fragment shaders
